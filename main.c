@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-    int t=3;
+    int t=5;
     while(t--){
-        printf("Hello Git!!!!!!!!!\n");
+        printf("Hello Git////!!!!\n");
     }
     return 0;
 }
